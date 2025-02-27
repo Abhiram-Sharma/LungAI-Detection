@@ -4,3 +4,15 @@ shap
 pillow
 numpy
 gunicorn
+torch
+torchvision
+numpy
+matplotlib
+shap
+flask
+requests
+flask
+tensorflow
+shap
+pillow
+numpy
