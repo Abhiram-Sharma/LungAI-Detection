@@ -5,3 +5,8 @@ matplotlib
 shap
 flask
 requests
+flask
+tensorflow
+shap
+pillow
+numpy
