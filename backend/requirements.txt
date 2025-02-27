@@ -3,3 +3,4 @@ tensorflow
 shap
 pillow
 numpy
+gunicorn
