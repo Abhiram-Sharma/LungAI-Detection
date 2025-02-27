@@ -10,7 +10,7 @@ document.getElementById('submitBtn').addEventListener('click', async () => {
     formData.append('image', file);
 
     try {
-        const response = await fetch('https://your-backend-url.onrender.com/predict', {
+        const response = await fetch('https://lung-cancer-backend.onrender.com/predict', {
             method: 'POST',
             body: formData
         });
